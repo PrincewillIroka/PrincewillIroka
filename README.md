@@ -23,12 +23,10 @@
 <img align="left" alt="MySQL" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="PostGRE" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
 <br/><br/>
-
 <h1> Stats : <h1/>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=princewilliroka&show_icons=true" alt="Princewill Iroka" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=princewilliroka&layout=compact&hide=html" alt="jassem-lab" /></p>
-<br/><br/>
-  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=princewilliroka&layout=compact&hide=html" alt="jassem-lab" /></p>  
+<br/><br/>  
 <p align="center">
 <a href="https://dev.to/princewilliroka" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="princewilliroka" height="30" width="30" /></a>
 <a href="https://www.linkedin.com/in/princewill-iroka/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="princewilliroka" height="30" width="30" /></a>
