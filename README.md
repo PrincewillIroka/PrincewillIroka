@@ -2,15 +2,14 @@
 <br/>
 <br/>
 <br/>
-
 About me:
 
 - 🌱 I’m currently working with React.js, React Native, Vue.js, Node.js (Express, Hapi) and Typescript
-<br/><br/>
+<br/>
 - 📫 How to reach me: <a href="https://princewilliroka@yahoo.com">Princewill Iroka's Email </a>
-<br/><br/>
+<br/>
 - ⚡ Fun fact: I'm very much interested in learning and utilizing new technologies to create real-world solutions that help people and businesses.
-<br/><br/>
+<br/>
 
 <h1> Languages & Skills : <h1/>
   
