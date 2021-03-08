@@ -22,7 +22,7 @@
 <img align="left" alt=MongoDB" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="MySQL" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="PostGRE" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
-<br/><br/>
+<br/>
 
 <h1> Stats : <h1/>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=princewilliroka&show_icons=true" alt="Princewill Iroka" /></p>
