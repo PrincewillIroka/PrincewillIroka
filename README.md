@@ -1,16 +1,35 @@
-### Hi there 👋
-
-<!--
-**PrincewillIroka/PrincewillIroka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Princewill Iroka</h1>
+<br/>
+<br/>
+<br/>
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently working with React.js, React Native, Vue.js, Node.js (Express, Hapi) and Typescript
+<br/><br/>
+- 📫 How to reach me: <a href="https://princewilliroka@yahoo.com">Princewill Iroka's Email </a>
+<br/><br/>
+- ⚡ Fun fact: I'm very much interested in learning and utilizing new technologies to create real-world solutions that help people and businesses.
+<br/><br/>
+
+<h1> Languages & Skills : <h1/>
+  
+<img align="left" alt="JavaScript" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="React" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="Vue" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" /> 
+<img align="left" alt="TypeScript" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
+<img align="left" alt="Node.js" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+---
+
+<h1> Stats : <h1/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=princewilliroka&layout=compact&hide=html" alt="jassem-lab" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jassem-lab&show_icons=true" alt="jassem-lab" /></p>
+<br/><br/>
+  
+<p align="center" style="background-color:white;">
+<a href="https://dev.to/princewilliroka" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="princewilliroka" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/princewill-iroka/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="princewilliroka" height="30" width="30" /></a>
+<a href="https://stackoverflow.com/users/5994977/princewill-iroka" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="princewilliroka" height="30" width="30" /></a>
+<a href="https://twitter.com/PrincewillIroka" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="princewilliroka" height="30" width="30" /></a>
+</p>
+
