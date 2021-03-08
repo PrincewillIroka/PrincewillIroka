@@ -27,8 +27,8 @@ Here are some information about me:
 
 
 <h1> Stats : <h1/>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=jassem-lab&show_icons=true" alt="jassem-lab" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=princewilliroka&layout=compact&hide=html" alt="jassem-lab" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jassem-lab&show_icons=true" alt="jassem-lab" /></p>
 <br/><br/>
   
 <p align="center" style="background-color:white;">
