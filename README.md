@@ -4,11 +4,10 @@
 <br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=princewilliroka" alt="princewilliroka" /> </p>
 
-<br/>
 - 🌱 I currently work with React.js, React Native, Vue.js, Node.js (Express, Hapi) and Typescript
-<br/>
+<br/><br/>
 - 📫 How to reach me: <a href="https://princewilliroka@yahoo.com">Princewill Iroka's Email </a>
-<br/>
+<br/><br/>
 - ⚡ Fun fact: I'm very much interested in learning and utilizing new technologies to create real-world solutions that help people and businesses.
 <br/>
 
@@ -23,8 +22,7 @@
 <img align="left" alt=MongoDB" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="MySQL" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="PostGRE" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
-
-
+<br/><br/>
 
 <h1> Stats : <h1/>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=princewilliroka&show_icons=true" alt="Princewill Iroka" /></p>
