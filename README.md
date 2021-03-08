@@ -5,7 +5,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=princewilliroka" alt="princewilliroka" /> </p>
 
 <br/>
-
 - 🌱 I currently work with React.js, React Native, Vue.js, Node.js (Express, Hapi) and Typescript
 <br/>
 - 📫 How to reach me: <a href="https://princewilliroka@yahoo.com">Princewill Iroka's Email </a>
