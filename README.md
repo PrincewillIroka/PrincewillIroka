@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, I'm Princewill Iroka</h1>
+<h3 align="center">I'm Fullstack Javascript Developer</h3>
 <br/>
-About me:
+<br/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=princewilliroka" alt="princewilliroka" /> </p>
+
 <br/>
 
-- 🌱 I’m currently working with React.js, React Native, Vue.js, Node.js (Express, Hapi) and Typescript
+- 🌱 I currently work with React.js, React Native, Vue.js, Node.js (Express, Hapi) and Typescript
 <br/>
 - 📫 How to reach me: <a href="https://princewilliroka@yahoo.com">Princewill Iroka's Email </a>
 <br/>
