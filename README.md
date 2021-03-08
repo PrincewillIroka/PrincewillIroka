@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Princewill Iroka</h1>
 <br/>
-<br/>
-<br/>
 About me:
+
 
 - 🌱 I’m currently working with React.js, React Native, Vue.js, Node.js (Express, Hapi) and Typescript
 <br/>
