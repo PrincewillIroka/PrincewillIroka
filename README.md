@@ -10,6 +10,7 @@
 - LinkedIn: [Princewill Iroka](https://www.linkedin.com/in/princewill-iroka/)
 - Twitter: [@PrincewillIroka](https://twitter.com/PrincewillIroka)
 - Github: [PrincewillIroka](https://github.com/PrincewillIroka)
+- Stack Overflow: [Princewill Iroka](https://stackoverflow.com/users/5994977/princewill-iroka)
 - Website: https://princewilliroka.com/
 - Email: princewilliroka@yahoo.com
 <br/><br/>
