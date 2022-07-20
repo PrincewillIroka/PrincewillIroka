@@ -3,7 +3,7 @@
 <br/>
 <br/>
 
-- 🌱 I currently work with React.js, React Native, Vue.js, Node.js (Express, Hapi) and Typescript
+- 🌱 I currently work with React.js, React Native, Node.js (Express, Hapi) and Typescript
 <br/><br/>
 - 📫 How to reach me:
 
