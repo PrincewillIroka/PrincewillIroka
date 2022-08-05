@@ -8,7 +8,6 @@
 - 📫 How to reach me:
 
 - LinkedIn: [Princewill Iroka](https://www.linkedin.com/in/princewill-iroka/)
-- Github: [PrincewillIroka](https://github.com/PrincewillIroka)
 - Stack Overflow: [Princewill Iroka](https://stackoverflow.com/users/5994977/princewill-iroka)
 - Website: https://princewilliroka.com/
 - Email: princewilliroka@yahoo.com
