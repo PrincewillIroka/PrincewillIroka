@@ -5,11 +5,7 @@
 
 - 🌱 I currently work with React.js, React Native, Node.js (Express, Hapi) and Typescript
 <br/><br/>
-- 📫 How to reach me:
 
-- LinkedIn: [Princewill Iroka](https://www.linkedin.com/in/princewill-iroka/)
-- Stack Overflow: [Princewill Iroka](https://stackoverflow.com/users/5994977/princewill-iroka)
-<br/><br/>
 - ⚡ Fun fact: I'm very interested in learning and utilizing new technologies to create real-world solutions that help people and businesses.
 <br/>
 
