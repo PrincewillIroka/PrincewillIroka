@@ -16,4 +16,4 @@
 <a href="https://dev.to/princewilliroka" target="blank"><img src="https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" alt="dev.to" height="30" width="30"></a>
 <a href="https://www.linkedin.com/in/princewill-iroka/" target="blank"><img src="" alt="LinkedIn" height="30" width="30" /></a>
 <a href="https://stackoverflow.com/users/5994977/princewill-iroka" target="blank"><img src="" alt="Stack Overflow" height="30" width="30"></a>
-<a href="https://twitter.com/PrincewillIroka" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" height="30" width="30" /></a>
+<a href="https://twitter.com/PrincewillIroka" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" height="30" width="30"></a>
