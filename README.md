@@ -1,12 +1,10 @@
-<h1 align="center">Hi 👋, I'm Princewill Iroka</h1>
-<h3 align="center">I'm a Fullstack Javascript Developer</h3>
+<h1>Hi 👋, I'm Princewill Iroka</h1>
+<h3>I'm a Fullstack Software Engineer</h3>
 <br/>
 <br/>
 
 - 🌱 I currently work with React.js, React Native, Node.js (Express, Hapi) and Typescript
-<br/><br/>
-
-- ⚡ Fun fact: I'm very interested in learning and utilizing new technologies to create real-world solutions that help people and businesses.
+- ⚡ What I do: I specialize in using building/maintaining real-world software products/solutions that help people and businesses.
 <br/>
 
 <h1> Languages & Skills : <h1/>
