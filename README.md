@@ -10,14 +10,7 @@
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white">
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white">
 <br>
-<img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
-<img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
-<img src="http://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel&logoColor=white">
-<img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat&logo=amazonaws&logoColor=white">
-<!-- 
-<h1> Stats : <h1/>
+### Stats
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=princewilliroka&show_icons=true" alt="Princewill Iroka" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=princewilliroka&layout=compact&hide=html" alt="jassem-lab" /></p>  
 <br/><br/>  
@@ -27,5 +20,4 @@
 <a href="https://stackoverflow.com/users/5994977/princewill-iroka" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="princewilliroka" height="30" width="30" /></a>
 <a href="https://twitter.com/PrincewillIroka" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="princewilliroka" height="30" width="30" /></a>
 </p>
--->
 
