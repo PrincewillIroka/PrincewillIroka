@@ -1,7 +1,5 @@
 <h1>Hi 👋, I'm Princewill Iroka</h1>
 <h3>I'm a Fullstack Software Engineer</h3>
-<br/>
-<br/>
 
 - 🌱 I currently work with React.js, React Native, Node.js (Express, Hapi) and Typescript
 - ⚡ What I do: I specialize in using building/maintaining real-world software products/solutions that help people and businesses.
