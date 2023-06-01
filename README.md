@@ -13,7 +13,7 @@
 <!-- ### Stats
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=princewilliroka&show_icons=true" alt="Princewill Iroka" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=princewilliroka&layout=compact&hide=html" /></p> --> 
-<a href="https://dev.to/princewilliroka" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="princewilliroka" height="30" width="30" /></a>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="princewilliroka" height="30" width="30">
 <a href="https://www.linkedin.com/in/princewill-iroka/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="princewilliroka" height="30" width="30" /></a>
 <a href="https://stackoverflow.com/users/5994977/princewill-iroka" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="princewilliroka" height="30" width="30" /></a>
 <a href="https://twitter.com/PrincewillIroka" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="princewilliroka" height="30" width="30" /></a>
