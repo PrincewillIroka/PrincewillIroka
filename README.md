@@ -18,3 +18,6 @@
 <a href="https://stackoverflow.com/users/5994977/princewill-iroka" target="blank"><img src="https://aleen42.github.io/badges/src/stackoverflow.svg" alt="Stack Overflow"></a>
 <a href="https://twitter.com/PrincewillIroka" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" height="20"></a>
 <a href="https://www.linkedin.com/in/princewill-iroka/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="20"/></a>
+
+---
+![Princewill's github stats](https://github-readme-stats.vercel.app/api?username=princewilliroka&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
