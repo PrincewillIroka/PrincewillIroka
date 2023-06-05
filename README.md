@@ -20,5 +20,5 @@
 <a href="https://www.linkedin.com/in/princewill-iroka/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="20"/></a>
 
 ---
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=princewilliroka" alt="Princewill Iroka Language Stats" />
-![Princewill's other Github stats](https://github-readme-stats.vercel.app/api?username=princewilliroka&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+<div><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=princewilliroka" alt="Princewill Iroka Language Stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=princewilliroka&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Princewill other Github stats"/></div>
